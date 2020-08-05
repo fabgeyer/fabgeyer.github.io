@@ -333,7 +333,7 @@ ul {
 }
 */
 
-.code_blog {
+.code_url {
     font-family: "Ubuntu Mono";
     font-size: 14px;
 }
@@ -408,7 +408,9 @@ ul {
   margin-right: 15px;
 }
 
-
+.publications li {
+  margin-bottom: 20px;
+}
 
 @media (max-width: 767px) {
   body {
